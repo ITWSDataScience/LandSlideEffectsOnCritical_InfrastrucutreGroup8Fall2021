@@ -19,3 +19,7 @@ Pronoy Pant
 [Power Plant Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/power-plants/explore?location=4.353707%2C-12.985721%2C2.00&showTable=true)  
 # Aim  
 To use the landslide data and correlations with critical infrastructure data to determine if certain areas have higher correlations with landslide and frequencies. We can then utilize this data to ensure that relevant facilities are allocated proper disaster relief funding as well as raising awareness about the tendency of landslides at certain geographical locations.
+
+# In This Repository
+
+* list each file and what it contains/what is is for
