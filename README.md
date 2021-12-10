@@ -20,4 +20,15 @@ Pronoy Pant
 # Aim  
 To use the landslide data and correlations with critical infrastructure data to determine if certain areas have higher correlations with landslide and frequencies. We can then utilize this data to ensure that relevant facilities are allocated proper disaster relief funding as well as raising awareness about the tendency of landslides at certain geographical locations.
 
+#In This Repository
 
+## Code
+* EDA.ipynb - Code used for EDA
+
+## Data
+* GGLI_2020_Landslide.csv - Source landslide data
+* Hospitals.csv - Source hospital data
+* Hospitals_Frequencies.csv - Hospital data merged with landslide frequencies
+* Landslide_Frequencies.csv - Landslide data converted from temporal to frequency
+* Model_Frequencies.csv - Model results with locations and landslide risk (as frequency)
+* Power_Plants.csv - Source power plant data
