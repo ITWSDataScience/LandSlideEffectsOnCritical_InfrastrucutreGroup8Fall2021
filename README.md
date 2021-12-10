@@ -20,7 +20,7 @@ Pronoy Pant
 # Aim  
 To use the landslide data and correlations with critical infrastructure data to determine if certain areas have higher correlations with landslide and frequencies. We can then utilize this data to ensure that relevant facilities are allocated proper disaster relief funding as well as raising awareness about the tendency of landslides at certain geographical locations.
 
-#In This Repository
+# In This Repository
 
 ## Code
 * EDA.ipynb - Code used for EDA
